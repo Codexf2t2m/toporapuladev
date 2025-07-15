@@ -4,7 +4,7 @@ import './globals.css'
 import ChatBot from '@/components/common/ChatBot'
 
 export const metadata: Metadata = {
-  title: 'AI Solutions',
+  title: 'Topo Rapula',
   description: 'Building your ideas',
 }
 
